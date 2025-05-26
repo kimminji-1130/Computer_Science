@@ -1,5 +1,5 @@
 # 🌐 네트워크 이론 정리 - OSI 7계층 & TCP/IP 4계층
-<img width="283" alt="스크린샷 2025-05-26 오후 10 36 09" src="https://github.com/user-attachments/assets/58e900df-5202-491a-af1d-ce5053d8bc07" />
+<img width="283" alt="스크린샷 2025-05-26 오후 10 36 09" src="https://github.com/user-attachments/assets/58e900df-5202-491a-af1d-ce5053d8bc07" />
 
 ## OSI 7계층 (Open Systems Interconnection)
 
@@ -53,7 +53,7 @@ TCP/IP 모델은 실제 인터넷에서 사용되는 네트워크 모델로, OSI
 
 ---
 ## 네트워크에서 데이터 전송되는 과정
-<img width="341" alt="스크린샷 2025-05-26 오후 10 59 50" src="https://github.com/user-attachments/assets/a10eb69f-b00a-481b-b849-dc29c905b3ed" />
+<img width="341" alt="스크린샷 2025-05-26 오후 10 59 50" src="https://github.com/user-attachments/assets/a10eb69f-b00a-481b-b849-dc29c905b3ed" />
 
 
 ---
