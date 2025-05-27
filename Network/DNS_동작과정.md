@@ -81,10 +81,20 @@ DNS(Domain Name System)은 **도메인 이름을 IP 주소로 변환하는 인�
 - TTL이 0이면, 매번 새로운 질의 필요 → 성능 저하
 
 # TTL 확인 명령어
-dig www.naver.com
+
+```dig www.naver.com```
+
+
 ![image](https://github.com/user-attachments/assets/4d18ad2a-b94e-4808-b568-a3bda54e2a81)
+
+
 TTL이 0이 된다면 -> DNS 서버는 해당 도메인에 대한 질의 요청을 사용자에게 해주지만 캐싱하지 않고 바로 버린다.
+
+
 ---
+
+## CS 예상 질문
+
 <details> <summary><strong>1. DNS가 없으면 웹사이트 접속은 어떻게 될까요?</strong></summary>
 도메인 대신 모든 웹사이트를 IP 주소로 직접 입력해야 합니다. → 사용성 저하 + 유지보수 어려움 → DNS는 사용자가 기억하기 쉬운 도메인으로 추상화해주는 역할을 함</details>
 <details> <summary><strong>2. DNS는 어느 계층에서 동작하나요?</strong></summary> **애플리케이션 계층**입니다. → DNS는 IP 주소로 변환해주는 네트워크 도우미지만, HTTP/SMTP 같은 애플리케이션 계층에서 호출됩니다.</details>
