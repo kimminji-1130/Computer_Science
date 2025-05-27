@@ -41,7 +41,7 @@ DNS(Domain Name System)은 **도메인 이름을 IP 주소로 변환하는 인�
 
 ---
 
-## 🔁 DNS 동작 원리
+## DNS 동작 원리
 
 <img width="699" alt="DNS 동작 흐름" src="https://github.com/user-attachments/assets/241d6c90-b7aa-4fc0-9254-59ff35a78ba3" />
 
@@ -73,7 +73,7 @@ DNS(Domain Name System)은 **도메인 이름을 IP 주소로 변환하는 인�
 
 ---
 
-## 🕒 DNS에서 TTL(Time To Live)
+## DNS에서 TTL(Time To Live)
 
 - TTL은 **DNS 레코드의 캐시 유효 시간**
 - 예: TTL = 3600초 → 1시간 동안 해당 IP 정보를 캐싱함
