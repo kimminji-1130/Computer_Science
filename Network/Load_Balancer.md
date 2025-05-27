@@ -45,7 +45,7 @@
 ## 🔀 Load Balancer의 유형
 
 ### 🌐 L4 Load Balancer (Transport Layer)
-<img width="822" alt="스크린샷 2025-05-27 오후 9 45 56" src="https://github.com/user-attachments/assets/a0fadf93-a086-47a6-9803-d2ef15969966" />
+<img width="566" alt="스크린샷 2025-05-27 오후 9 45 56" src="https://github.com/user-attachments/assets/a0fadf93-a086-47a6-9803-d2ef15969966" />
 
 - 주로 TCP/UDP 프로토콜의 IP 주소와 포트 정보를 기반으로 트래픽을 여러 서버로 분산
 - 패킷의 헤더 정보만을 확인하기 때문에 처리 속도가 빠르고 효율적
